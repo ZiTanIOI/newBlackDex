@@ -1,4 +1,7 @@
+
 # newBlackDex
+[English Doc](README_EN.md)
+
 尝试复活blackdex
 原项目地址:https://github.com/CodingGay/BlackDex
 只做了向上兼容(测试机为安卓14)，未经过大量测试，很可能出现包括但不限于脱不出东西，进程卡死，软件异常退出等行为。
